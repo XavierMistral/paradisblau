@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Passatemps · Paradis Blau</title>
+<meta name="description" content="Sudoku, parejas, cuatro en raya, la oca, puzzle deslizante, sopa de letras, crucigrama y autodefinido, para todas las edades y sin sonido.">
+<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="/hoy.css">
+<link rel="stylesheet" href="/servicios.css">
+<style>
+/* Adaptación de los colores del sitio anterior a la maqueta */
+:root{--blau-fosc:#1b3d5a;--blau:#2c5a65;--blau-clar:#3d9bb8;--turquesa:#3d9bb8;--blanc:#ffffff;--text:#1b2233;--text-suau:#586273;--ombra:0 10px 30px rgba(44,90,101,.16);--radi:14px}
+.pt-main{max-width:980px;margin:0 auto;padding:30px 20px 10px}
+.pt-hero h1{font-family:var(--serif);font-size:clamp(1.8rem,5.4vw,2.6rem);margin:0 0 8px;font-weight:600;color:var(--green)}
+.pt-hero p{margin:0 0 20px;color:var(--soft);max-width:46em}
+</style>
+<link rel="stylesheet" href="/css/pasatiempos.css">
+<link rel="manifest" href="/letsholidays/manifest.webmanifest">
+<meta name="theme-color" content="#2c5a65">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/assets/icons/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="/assets/icons/favicon-16.png" sizes="16x16" type="image/png">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/assets/icons/apple-touch-icon.png">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Paradis Blau">
+<script src="/i18n/ca.js"></script>
+<script src="/i18n.js"></script>
+<meta name="robots" content="noindex, follow">
+<link rel="canonical" href="https://paradisblau.es/ca/pasatiempos.html">
+<script>window.PB_ESPACIO="letsholidays";</script>
+</head>
+<body>
+<header class="top-int">
+  <a href="index.html"><b>Tossa, Paradis Blau</b></a>
+  <a class="volver" href="index.html#planes">&larr; Volver a los planes</a>
+</header>
+
+<main class="pt-main">
+  <section class="pt-hero">
+    <h1>Pasatiempos</h1>
+    <p>Para los ratos de sol, de lluvia o de sobremesa. Sudokus, parejas con fotos de Tossa, cuatro en raya, la oca, puzzle deslizante, una sopa de letras, un crucigrama y un autodefinido. Todos son silenciosos, pensados para jugar en la playa o en la habitación sin molestar a nadie.</p>
+  </section>
+
+  <div class="pt-edad" role="group" aria-label="¿Quién juega?">
+    <span class="pt-grupo-t">¿Quién juega?</span>
+    <div class="pt-edad-btns">
+      <button type="button" class="pt-edad-b active" data-edad="t" aria-pressed="true">Todos</button>
+      <button type="button" class="pt-edad-b" data-edad="p" aria-pressed="false">Peques<small>hasta 8 años</small></button>
+      <button type="button" class="pt-edad-b" data-edad="f" aria-pressed="false">Familia<small>a partir de 8</small></button>
+      <button type="button" class="pt-edad-b" data-edad="m" aria-pressed="false">Mayores</button>
+    </div>
+    <p class="pt-edad-nota" id="pt-edad-nota"></p>
+  </div>
+
+  <div class="pt-grupo">
+    <span class="pt-grupo-t">Sin palabras</span>
+    <div class="pt-tabs" role="tablist" aria-label="Juegos sin palabras">
+      <button type="button" role="tab" class="pt-tab active" data-target="pt-sudoku" data-edad="f m" aria-selected="true">Sudoku<small class="pt-tab-edad">Desde 10 años</small></button>
+      <button type="button" role="tab" class="pt-tab" data-target="pt-parejas" data-edad="p f" aria-selected="false">Parejas<small class="pt-tab-edad">Desde 4 años</small></button>
+      <button type="button" role="tab" class="pt-tab" data-target="pt-c4" data-edad="p f m" aria-selected="false">Cuatro en raya<small class="pt-tab-edad">Desde 6 años</small></button>
+      <button type="button" role="tab" class="pt-tab" data-target="pt-oca" data-edad="p f m" aria-selected="false">La oca<small class="pt-tab-edad">Desde 5 años</small></button>
+      <button type="button" role="tab" class="pt-tab" data-target="pt-slide" data-edad="p f m" aria-selected="false">Puzzle deslizante<small class="pt-tab-edad">Desde 5 años</small></button>
+    </div>
+  </div>
+  <div class="pt-grupo">
+    <span class="pt-grupo-t">Con palabras (en español)</span>
+    <div class="pt-tabs" role="tablist" aria-label="Juegos con palabras">
+      <button type="button" role="tab" class="pt-tab" data-target="pt-sopa" data-edad="f m" aria-selected="false">Sopa de letras<small class="pt-tab-edad">Desde 8 años</small></button>
+      <button type="button" role="tab" class="pt-tab" data-target="pt-cruci" data-edad="m" aria-selected="false">Crucigrama<small class="pt-tab-edad">Para mayores</small></button>
+      <button type="button" role="tab" class="pt-tab" data-target="pt-auto" data-edad="m" aria-selected="false">Autodefinido<small class="pt-tab-edad">Para mayores</small></button>
+    </div>
+  </div>
+
+  <!-- SUDOKU -->
+  <section id="pt-sudoku" class="pt-panel active">
+    <div class="pt-card">
+      <h2>Sudoku</h2>
+      <p class="pt-help">Completa la cuadrícula para que cada fila, columna y bloque de 3x3 lleve los números del 1 al 9 sin repetir.</p>
+      <div class="pt-controls">
+        <label for="su-nivel">Dificultad</label>
+        <select id="su-nivel">
+          <option value="facil">Fácil</option>
+          <option value="medio" selected>Media</option>
+          <option value="dificil">Difícil</option>
+        </select>
+        <button type="button" class="pt-btn" id="su-nuevo">Nuevo sudoku</button>
+        <button type="button" class="pt-btn pt-btn-sec" id="su-comprobar">Comprobar</button>
+        <button type="button" class="pt-btn pt-btn-sec" id="su-solucion">Ver solución</button>
+      </div>
+      <div class="pt-msg" id="su-msg" role="status" aria-live="polite"></div>
+      <div class="su-wrap"><div id="su-grid" class="su-grid"></div></div>
+    </div>
+  </section>
+
+  <!-- SOPA DE LETRAS -->
+  <section id="pt-sopa" class="pt-panel">
+    <div class="pt-card">
+      <h2>Sopa de letras</h2>
+      <p class="pt-help">Encuentra las palabras de la lista. Pueden estar en horizontal, vertical o diagonal, y también al revés. Pulsa la primera letra y después la última, o arrastra el dedo o el ratón de una a otra.</p>
+      <div class="pt-controls">
+        <button type="button" class="pt-btn" id="so-nueva">Nueva sopa</button>
+        <button type="button" class="pt-btn pt-btn-sec" id="so-solucion">Ver palabras</button>
+      </div>
+      <div class="pt-msg" id="so-msg" role="status" aria-live="polite"></div>
+      <div class="so-layout">
+        <div class="so-wrap"><div id="so-grid" class="so-grid"></div></div>
+        <ul id="so-lista" class="so-lista"></ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- CRUCIGRAMA -->
+  <section id="pt-cruci" class="pt-panel">
+    <div class="pt-card">
+      <h2>Crucigrama</h2>
+      <p class="pt-help">Escribe las respuestas sin tildes y sin espacios. Pulsa una casilla para elegirla; si vuelves a pulsarla cambia entre horizontal y vertical.</p>
+      <div class="pt-controls">
+        <button type="button" class="pt-btn pt-btn-sec" id="cr-comprobar">Comprobar</button>
+        <button type="button" class="pt-btn pt-btn-sec" id="cr-solucion">Ver solución</button>
+        <button type="button" class="pt-btn pt-btn-sec" id="cr-reiniciar">Empezar de nuevo</button>
+      </div>
+      <div class="pt-msg" id="cr-msg" role="status" aria-live="polite"></div>
+      <div class="cr-layout">
+        <div class="cr-wrap"><div id="cr-grid" class="cr-grid"></div></div>
+        <div class="cr-clues">
+          <h3>Horizontales</h3>
+          <ol id="cr-across" class="cr-list"></ol>
+          <h3>Verticales</h3>
+          <ol id="cr-down" class="cr-list"></ol>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- AUTODEFINIDO -->
+  <section id="pt-auto" class="pt-panel">
+    <div class="pt-card">
+      <h2>Autodefinido</h2>
+      <p class="pt-help">Las definiciones están dentro de la propia cuadrícula. La flecha indica hacia dónde se escribe la respuesta: hacia la derecha o hacia abajo, empezando en la casilla siguiente. Sin tildes ni espacios.</p>
+      <div class="pt-controls">
+        <button type="button" class="pt-btn pt-btn-sec" id="au-comprobar">Comprobar</button>
+        <button type="button" class="pt-btn pt-btn-sec" id="au-solucion">Ver solución</button>
+        <button type="button" class="pt-btn pt-btn-sec" id="au-reiniciar">Empezar de nuevo</button>
+      </div>
+      <div class="pt-msg" id="au-msg" role="status" aria-live="polite"></div>
+      <div class="au-wrap"><div id="au-grid" class="au-grid"></div></div>
+      <p class="pt-help pt-small">En el móvil puedes desplazar la cuadrícula hacia los lados.</p>
+    </div>
+  </section>
+
+  <!-- PAREJAS -->
+  <section id="pt-parejas" class="pt-panel">
+    <div class="pt-card">
+      <h2>Parejas</h2>
+      <p class="pt-help">Da la vuelta a dos cartas cada vez y encuentra las fotos iguales. Gana quien las descubra todas con menos intentos. Sin sonido y sin prisas.</p>
+      <div class="pt-controls">
+        <label for="pa-nivel">Tamaño</label>
+        <select id="pa-nivel">
+          <option value="6">Pequeño (6 parejas)</option>
+          <option value="8" selected>Medio (8 parejas)</option>
+          <option value="10">Grande (10 parejas)</option>
+        </select>
+        <button type="button" class="pt-btn" id="pa-nuevo">Nueva partida</button>
+      </div>
+      <div class="pt-msg" id="pa-msg" role="status" aria-live="polite"></div>
+      <div id="pa-grid" class="pa-grid"></div>
+    </div>
+  </section>
+
+  <!-- CUATRO EN RAYA -->
+  <section id="pt-c4" class="pt-panel">
+    <div class="pt-card">
+      <h2>Cuatro en raya</h2>
+      <p class="pt-help">Deja caer las fichas por las columnas. Gana quien junte cuatro en línea, en horizontal, vertical o diagonal. Puedes jugar contra el móvil o entre dos personas.</p>
+      <div class="pt-controls">
+        <label for="c4-modo">Modo</label>
+        <select id="c4-modo">
+          <option value="ia">Contra la máquina</option>
+          <option value="dos">Dos jugadores</option>
+        </select>
+        <label for="c4-nivel" id="c4-nivel-l">Nivel</label>
+        <select id="c4-nivel">
+          <option value="facil">Fácil</option>
+          <option value="medio" selected>Medio</option>
+          <option value="dificil">Difícil</option>
+        </select>
+        <button type="button" class="pt-btn" id="c4-nuevo">Nueva partida</button>
+      </div>
+      <div class="pt-msg" id="c4-msg" role="status" aria-live="polite"></div>
+      <div class="c4-wrap"><div id="c4-grid" class="c4-grid"></div></div>
+    </div>
+  </section>
+
+  <!-- LA OCA -->
+  <section id="pt-oca" class="pt-panel">
+    <div class="pt-card">
+      <h2>La oca</h2>
+      <p class="pt-help">Tira el dado y avanza por las 63 casillas hasta el Jardín de la Oca. Puedes jugar contra el móvil o pasarte el móvil entre dos, tres o cuatro personas. Para ganar hay que llegar justo a la casilla 63: si te pasas, rebotas hacia atrás.</p>
+      <div class="pt-controls">
+        <label for="oca-jug">Jugadores</label>
+        <select id="oca-jug">
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+        </select>
+        <label for="oca-modo">Modo</label>
+        <select id="oca-modo">
+          <option value="ia">Contra el móvil</option>
+          <option value="personas">Entre personas</option>
+        </select>
+        <label for="oca-tab">Tablero</label>
+        <select id="oca-tab">
+          <option value="pintores">Pintores de Tossa</option>
+          <option value="espiral">Espiral sencillo</option>
+        </select>
+        <button type="button" class="pt-btn pt-btn-sec" id="oca-nuevo">Nueva partida</button>
+      </div>
+      <div class="pt-msg" id="oca-msg" role="status" aria-live="polite"></div>
+      <div class="oca-barra">
+        <div class="oca-dado" id="oca-dado" aria-live="polite" aria-label="Resultado del dado">·</div>
+        <button type="button" class="pt-btn" id="oca-tirar">Tirar el dado</button>
+      </div>
+      <div class="oca-wrap"><div id="oca-tablero" class="oca-tablero" role="group" aria-label="Tablero de la oca"></div></div>
+      <ul class="oca-registro" id="oca-registro" aria-label="Últimas jugadas"></ul>
+      <details class="oca-reglas">
+        <summary>Casillas especiales</summary>
+        <ul>
+          <li><b class="oca-k oca-oca">OCA</b> De oca en oca: saltas a la siguiente oca y vuelves a tirar (casillas 5, 9, 14, 18, 23, 27, 32, 36, 41, 45, 50, 54 y 59).</li>
+          <li><b class="oca-k oca-puente">PTE</b> Puentes (6 y 12): pasas de uno al otro y vuelves a tirar.</li>
+          <li><b class="oca-k oca-dados">DADO</b> Dados (26 y 53): pasas de uno al otro y vuelves a tirar.</li>
+          <li><b class="oca-k oca-posada">POS</b> Posada (19): pierdes un turno.</li>
+          <li><b class="oca-k oca-pozo">POZO</b> Pozo (31): pierdes dos turnos.</li>
+          <li><b class="oca-k oca-laberinto">LAB</b> Laberinto (42): retrocedes a la casilla 30.</li>
+          <li><b class="oca-k oca-carcel">CÁR</b> Cárcel (52): pierdes dos turnos.</li>
+          <li><b class="oca-k oca-muerte">X</b> Calavera (58): vuelves a la salida.</li>
+          <li><b class="oca-k oca-jardin">JARDÍN</b> Jardín de la Oca (63): ¡has ganado!</li>
+        </ul>
+      </details>
+    </div>
+  </section>
+
+  <!-- PUZZLE DESLIZANTE -->
+  <section id="pt-slide" class="pt-panel">
+    <div class="pt-card">
+      <h2>Puzzle deslizante</h2>
+      <p class="pt-help">Pulsa una pieza junto al hueco para deslizarla. Ordena todas las piezas hasta recomponer la foto.</p>
+      <div class="pt-controls">
+        <label for="sl-foto">Foto</label>
+        <select id="sl-foto"></select>
+        <label for="sl-n">Tamaño</label>
+        <select id="sl-n">
+          <option value="3">Fácil (3x3)</option>
+          <option value="4" selected>Media (4x4)</option>
+          <option value="5">Difícil (5x5)</option>
+        </select>
+        <button type="button" class="pt-btn" id="sl-barajar">Barajar de nuevo</button>
+        <label class="sl-check"><input type="checkbox" id="sl-nums"> Mostrar números</label>
+      </div>
+      <div class="pt-msg" id="sl-msg" role="status" aria-live="polite"></div>
+      <div class="sl-layout">
+        <div id="sl-tablero" class="sl-tablero sl-oculta"></div>
+        <div class="sl-ref"><img id="sl-ref" alt="Foto de referencia"><span>Foto completa</span></div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="foot-in">
+    <b>Paradis Blau</b> · Guía para huéspedes · Fibra Pagès
+    <p><a href="index.html">Volver a la portada</a></p>
+  </div>
+  <p class="legal"><a href="/avis-legal.html">Aviso legal</a> · <a href="/privacitat.html">Política de privacidad</a> · <a href="/galetes.html">Política de cookies</a></p>
+</footer>
+<script src="/js/pasatiempos-data.js"></script>
+<script src="/js/pasatiempos.js"></script>
+<script src="/js/oca.js"></script>
+<script src="/js/pasatiempos-edades.js"></script>
+<script src="/espacios.js"></script>
+<script src="/espacio.js"></script>
+<script src="/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,54 @@
+{
+  "nombre": "Restaurante de ejemplo",
+  "demo": true,
+  "intro": "Espacio de demostración: cada negocio decide qué vistas muestra y las puede cambiar cuando quiera.",
+  "destacada": { "t": "Plato del día", "d": "Aquí el negocio destaca lo que quiere potenciar hoy.", "desde": "2020-01-01", "hasta": "2099-12-31" },
+  "vistas": [
+    {
+      "id": "carta", "t": "Carta", "tipo": "carta",
+      "secciones": [
+        { "t": "Para empezar", "items": [
+          { "n": "Entrante de ejemplo", "d": "Descripción breve del plato y sus ingredientes principales.", "p": "0,00 €", "a": ["gluten"] },
+          { "n": "Otro entrante", "d": "Otra descripción de ejemplo.", "p": "0,00 €", "a": ["lácteos", "huevo"] }
+        ] },
+        { "t": "Platos principales", "items": [
+          { "n": "Plato principal de ejemplo", "d": "Descripción breve.", "p": "0,00 €", "a": ["pescado"] },
+          { "n": "Otro plato principal", "d": "Descripción breve.", "p": "0,00 €", "a": [] }
+        ] },
+        { "t": "Postres", "items": [
+          { "n": "Postre de ejemplo", "d": "Descripción breve.", "p": "0,00 €", "a": ["lácteos", "frutos secos"] }
+        ] }
+      ]
+    },
+    {
+      "id": "vinos", "t": "Vinos", "tipo": "carta",
+      "secciones": [
+        { "t": "Tintos", "items": [ { "n": "Vino tinto de ejemplo", "d": "Denominación y añada de ejemplo.", "p": "0,00 €", "a": ["sulfitos"] } ] },
+        { "t": "Blancos", "items": [ { "n": "Vino blanco de ejemplo", "d": "Denominación y añada de ejemplo.", "p": "0,00 €", "a": ["sulfitos"] } ] }
+      ]
+    },
+    {
+      "id": "local", "t": "El local", "tipo": "local",
+      "texto": "Aquí el negocio cuenta quién es y qué ofrece. Las fotos y los servicios los elige el propio negocio.",
+      "fotos": [
+        { "src": "/assets/planes/platja-gran.jpg", "alt": "Foto del local (ejemplo)" },
+        { "src": "/assets/planes/comer.jpg", "alt": "Foto de un plato (ejemplo)" },
+        { "src": "/assets/planes/casco.jpg", "alt": "Foto del entorno (ejemplo)" }
+      ],
+      "servicios": [
+        { "t": "Servicio de ejemplo", "d": "Descripción breve de lo que ofrece el local." },
+        { "t": "Otro servicio", "d": "Descripción breve." }
+      ],
+      "horario": [ { "d": "Lunes a domingo", "h": "De ejemplo" } ],
+      "contacto": { "direccion": "Dirección del negocio" }
+    },
+    {
+      "id": "promos", "t": "Promociones", "tipo": "promos",
+      "items": [
+        { "t": "Promoción vigente de ejemplo", "d": "Se muestra solo entre sus fechas de inicio y fin.", "desde": "2020-01-01", "hasta": "2099-12-31" },
+        { "t": "Promoción pasada (no se ve)", "d": "Como ya ha terminado, no aparece.", "desde": "2020-01-01", "hasta": "2020-12-31" }
+      ]
+    }
+  ],
+  "app": { "t": "Descubre Tossa en la guía completa", "u": "/" }
+}

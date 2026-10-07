@@ -1,0 +1,51 @@
+es	ca	en
+^Hay 1 número mal colocado \(en rojo\)\.$	Hi ha 1 número mal col·locat (en vermell).	There is 1 misplaced number (in red).
+^Hay (\d+) números mal colocados \(en rojo\)\.$	Hi ha $1 números mal col·locats (en vermell).	There are $1 misplaced numbers (in red).
+^Hay 1 número mal colocado \(en rojo\)\. Faltan (\d+) casillas\.$	Hi ha 1 número mal col·locat (en vermell). Falten $1 caselles.	There is 1 misplaced number (in red). $1 squares left.
+^Hay (\d+) números mal colocados \(en rojo\)\. Faltan (\d+) casillas\.$	Hi ha $1 números mal col·locats (en vermell). Falten $2 caselles.	There are $1 misplaced numbers (in red). $2 squares left.
+^Hay 1 letra mal \(en rojo\)\.$	Hi ha 1 lletra malament (en vermell).	There is 1 wrong letter (in red).
+^Hay (\d+) letras mal \(en rojo\)\.$	Hi ha $1 lletres malament (en vermell).	There are $1 wrong letters (in red).
+^Hay 1 letra mal \(en rojo\)\. Faltan (\d+) casillas\.$	Hi ha 1 lletra malament (en vermell). Falten $1 caselles.	There is 1 wrong letter (in red). $1 squares left.
+^Hay (\d+) letras mal \(en rojo\)\. Faltan (\d+) casillas\.$	Hi ha $1 lletres malament (en vermell). Falten $2 caselles.	There are $1 wrong letters (in red). $2 squares left.
+^Todo lo escrito es correcto\. Faltan (\d+) casillas\.$	Tot el que has escrit és correcte. Falten $1 caselles.	Everything you have written is correct. $1 squares left.
+^Muy bien: (.+)\. Quedan (\d+)\.$	Molt bé: $1. En queden $2.	Well done: $1. $2 left.
+^Fila (\d+), columna (\d+)$	Fila $1, columna $2	Row $1, column $2
+^Columna (\d+)$	Columna $1	Column $1
+^Pieza (\d+)$	Peça $1	Piece $1
+^Intentos: (\d+)$	Intents: $1	Attempts: $1
+^Intentos: (\d+) · Parejas: (\d+) de (\d+)$	Intents: $1 · Parelles: $2 de $3	Attempts: $1 · Pairs: $2 of $3
+^Completado en 1 intento\.$	Completat en 1 intent.	Done in 1 attempt.
+^Completado en (\d+) intentos\.$	Completat en $1 intents.	Done in $1 attempts.
+^Movimientos: (\d+)$	Moviments: $1	Moves: $1
+^Completado en 1 movimiento\.$	Completat en 1 moviment.	Done in 1 move.
+^Completado en (\d+) movimientos\.$	Completat en $1 moviments.	Done in $1 moves.
+^Gana el jugador (\d)\.$	Guanya el jugador $1.	Player $1 wins.
+^Dentro del núcleo urbano · (\d+) m de largo · (\d+) m de ancho · (.+?) · entorno (\w+)$	Dins del nucli urbà · $1 m de llarg · $2 m d'ample · $w3 · entorn $w4	Within the town · $1 m long · $2 m wide · $w3 · $w4 setting
+^([\d.]+) km de Tossa · (\d+) m de largo · (\d+) m de ancho · (.+?) · entorno (\w+)$	A $1 km de Tossa · $2 m de llarg · $3 m d'ample · $w4 · entorn $w5	$1 km from Tossa · $2 m long · $3 m wide · $w4 · $w5 setting
+^Foto: (.+) ·$	Foto: $1 ·	Photo: $1 ·
+^Imagen: (.+)$	Imatge: $1	Image: $1
+^Dónde: (.+)$	On: $1	Where: $1
+^Fotos ilustrativas: (.+)$	Fotos il·lustratives: $1	Illustrative photos: $1
+^Llamar (.+) \(urgencias\)$	Trucar $1 (urgències)	Call $1 (emergencies)
+^Todos \((\d+)\)$	Tots ($1)	All ($1)
+^1 resultado$	1 resultat	1 result
+^(.+) · Paradis Blau$	$t1 · Paradis Blau	$t1 · Paradis Blau
+^(lunes|martes|miércoles|jueves|viernes|sábado|domingo) (\d+) de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)$	$w1 $2 $w3	$w1 $2 $w3
+^Hoy, (lunes|martes|miércoles|jueves|viernes|sábado|domingo) (\d+) de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)$	Avui, $w1 $2 $w3	Today, $w1 $2 $w3
+^(\d+) (ene|feb|mar|abr|may|jun|jul|ago|sep|oct|nov|dic) – (\d+) (ene|feb|mar|abr|may|jun|jul|ago|sep|oct|nov|dic)$	$1 $w2 – $3 $w4	$1 $w2 – $3 $w4
+^(lunes|martes|miércoles|jueves|viernes|sábado|domingo) (\d+), sin eventos$	$w1 $2, sense esdeveniments	$w1 $2, no events
+^(lunes|martes|miércoles|jueves|viernes|sábado|domingo) (\d+), 1 evento$	$w1 $2, 1 esdeveniment	$w1 $2, 1 event
+^(lunes|martes|miércoles|jueves|viernes|sábado|domingo) (\d+), (\d+) eventos$	$w1 $2, $3 esdeveniments	$w1 $2, $3 events
+^(lun|mar|mié|jue|vie|sáb|dom) (\d+) (ene|feb|mar|abr|may|jun|jul|ago|sep|oct|nov|dic)$	$w1 $2 $w3	$w1 $2 $w3
+^, (lun|mar|mié|jue|vie|sáb|dom) (\d+) (ene|feb|mar|abr|may|jun|jul|ago|sep|oct|nov|dic)\.$	, $w1 $2 $w3	, $w1 $2 $w3.
+^Sensación (.+)$	Sensació $1	Feels like $1
+^Actualizado a las (.+) · Datos: Open-Meteo$	Actualitzat a les $1 · Dades: Open-Meteo	Updated at $1 · Data: Open-Meteo
+^(.+?) La puesta de sol es a las (\d\d:\d\d)\.$	$t1 La posta de sol és a les $2.	$t1 Sunset is at $2.
+^(-?\d+),(\d+) (°C|m)$	$1,$2 $3	$1.$2 $3
+^(.+?)(\. | · )(Dónde comer|Dónde dormir|Ocio|Deporte|Shopping|Transportes|Playas y calas|Historia y patrimonio|Salud y servicios|Wifi gratuito|Apartamentos Lets Holidays)$	$t1$2$w3	$t1$2$w3
+^Llamar (.+)$	Trucar $1	Call $1
+^Ver en el mapa$	Veure al mapa	See on map
+^(\d+) resultados?$	$1 resultats	$1 results
+^Gasto medio orientativo: (.+) por persona$	Despesa mitjana orientativa: $1 per persona	Average spend: $1 per person
+^Horario \((.+)\): (.+)$	Horari ($s1): $s2	Opening hours ($s1): $s2
+^(.+) \((\d+)\)$	$t1 ($2)	$t1 ($2)

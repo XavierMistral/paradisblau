@@ -1,0 +1,156 @@
+{
+ "planes/costa-begur": {
+  "autor": "Alan Mattingly",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:Begur_from_the_castle.jpg",
+  "archivo": "File:Begur from the castle.jpg"
+ },
+ "planes/costa-pals": {
+  "autor": "MARIA ROSA FERRE ✿",
+  "licencia": "CC BY-SA 2.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:Carrer_Major_(Pals)_-_2.jpg",
+  "archivo": "File:Carrer Major (Pals) - 2.jpg"
+ },
+ "planes/girona-onyar": {
+  "autor": "Escarlati",
+  "licencia": "CC BY-SA 3.0",
+  "licencia_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "origen": "https://commons.wikimedia.org/wiki/File:Gerona,_casas_colgadas_sobre_el_O%C3%B1ar.jpg",
+  "archivo": "File:Gerona, casas colgadas sobre el Oñar.jpg"
+ },
+ "planes/girona-catedral": {
+  "autor": "Richard Mortel from Riyadh, Saudi Arabia",
+  "licencia": "CC BY 2.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/2.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:Girona_Cathedral,_Baroque_facade_and_stairs)_(30946815990).jpg",
+  "archivo": "File:Girona Cathedral, Baroque facade and stairs) (30946815990).jpg"
+ },
+ "planes/garrotxa-fageda": {
+  "autor": "Jorge Franganillo",
+  "licencia": "CC BY 3.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/3.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:Fageda_d%27en_Jord%C3%A0_-_panoramio.jpg",
+  "archivo": "File:Fageda d'en Jordà - panoramio.jpg"
+ },
+ "planes/garrotxa-volca": {
+  "autor": "Carquinyol from Badalona, Catalunya",
+  "licencia": "CC BY-SA 2.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:Volc%C3%A0_de_Santa_Margarida.jpg",
+  "archivo": "File:Volcà de Santa Margarida.jpg"
+ },
+ "planes/garrotxa-santapau": {
+  "autor": "Vassil",
+  "licencia": "CC0",
+  "licencia_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "origen": "https://commons.wikimedia.org/wiki/File:02_Santa_Pau_26072016_02.jpg",
+  "archivo": "File:02 Santa Pau 26072016 02.jpg"
+ },
+ "planes/bcn-sagrada": {
+  "autor": "Jopparn",
+  "licencia": "CC BY-SA 3.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:Sagrada_Fam%C3%ADlia_2010.JPG",
+  "archivo": "File:Sagrada Família 2010.JPG"
+ },
+ "planes/bcn-parkguell": {
+  "autor": "Danbu14",
+  "licencia": "CC BY-SA 3.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:Park_Guell_Detail_Terrace.jpg",
+  "archivo": "File:Park Guell Detail Terrace.jpg"
+ },
+ "planes/bcn-gotic": {
+  "autor": "Angela Llop",
+  "licencia": "CC BY-SA 2.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:Catedral_de_Barcelona_-_12.jpg",
+  "archivo": "File:Catedral de Barcelona - 12.jpg"
+ },
+ "patrimonio/ametllers": {
+  "autor": "Shesmax",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:Tossa_de_Mar._Roman_Villa_of_Ametllers_-_005.jpg",
+  "archivo": "File:Tossa de Mar. Roman Villa of Ametllers - 005.jpg"
+ },
+ "patrimonio/casa-sans": {
+  "autor": "Kent Wang",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:Casa_Sans,_Tossa_de_Mar_01.jpg",
+  "archivo": "File:Casa Sans, Tossa de Mar 01.jpg"
+ },
+ "patrimonio/can-ganga": {
+  "autor": "Mafoso (talk)",
+  "licencia": "CC BY-SA 3.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:Can_Ganga-Tossa-02.JPG",
+  "archivo": "File:Can Ganga-Tossa-02.JPG"
+ },
+ "patrimonio/socors": {
+  "autor": "Tanya Dedyukhina",
+  "licencia": "CC BY 3.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/3.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:Tossa_De_Mar_-_panoramio_(5).jpg",
+  "archivo": "File:Tossa De Mar - panoramio (5).jpg"
+ },
+ "patrimonio/esglesia": {
+  "autor": "Enric",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:116_Esgl%C3%A9sia_de_Sant_Vicen%C3%A7_(Tossa_de_Mar).jpg",
+  "archivo": "File:116 Església de Sant Vicenç (Tossa de Mar).jpg"
+ },
+ "patrimonio/far": {
+  "autor": "Enric",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:079_Far_de_Tossa_de_Mar.jpg",
+  "archivo": "File:079 Far de Tossa de Mar.jpg"
+ },
+ "planes/museu-municipal": {
+  "autor": "Kippelboy",
+  "licencia": "CC0",
+  "licencia_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "origen": "https://commons.wikimedia.org/wiki/File:Museu_Municipal_de_Tossa_de_Mar_interiors_07.jpg",
+  "archivo": "File:Museu Municipal de Tossa de Mar interiors 07.jpg"
+ },
+ "planes/dali-figueres": {
+  "autor": "Maksim Sokolov",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:Teatre-Museu_Dalí_(Figueres)_01.jpg",
+  "archivo": "File:Teatre-Museu Dalí (Figueres) 01.jpg"
+ },
+ "planes/girona-passeig": {
+  "autor": "Enric",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:131_Passeig_Arqueològic_(Girona),_font.jpg",
+  "archivo": "File:131 Passeig Arqueològic (Girona), font.jpg"
+ },
+ "planes/galeria-kars": {
+  "autor": "Georges Kars",
+  "licencia": "Dominio público",
+  "licencia_url": "https://commons.wikimedia.org/wiki/File:Georges_Kars,_Pohled_na_Tossu_(Tossa_del_Mar).jpg",
+  "origen": "https://commons.wikimedia.org/wiki/File:Georges_Kars,_Pohled_na_Tossu_(Tossa_del_Mar).jpg",
+  "archivo": "File:Georges Kars, Pohled na Tossu (Tossa del Mar).jpg"
+ },
+ "planes/submarinismo-medes": {
+  "autor": "Jouni Kuisma, DiveCodex",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:Dusky_grouper_(Epinephelus_marginatus),_Tasco_Petit,_Medes_Islands,_Spain.jpg",
+  "archivo": "File:Dusky grouper (Epinephelus marginatus), Tasco Petit, Medes Islands, Spain.jpg"
+ },
+ "planes/shopping-carrer-guardia": {
+  "autor": "Txllxt TxllxT",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:Costa_Brava_-_Tossa_de_Mar_-_Carrer_de_la_Gu%C3%A0rdia_-_Carrer_Nou_-_View_SE.jpg",
+  "archivo": "File:Costa Brava - Tossa de Mar - Carrer de la Guàrdia - Carrer Nou - View SE.jpg"
+ }
+}

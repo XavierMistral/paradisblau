@@ -1,0 +1,40 @@
+/* Directorio de negocios de Tossa. */
+.dr-filtros{margin:18px 0 6px}
+.dr-chips{display:flex;flex-wrap:wrap;gap:8px}
+.dr-chips button{font:inherit;font-size:.92rem;font-weight:600;border:1.5px solid var(--line);background:transparent;color:var(--ink);padding:8px 16px;border-radius:999px;cursor:pointer}
+.dr-chips button[aria-pressed="true"]{background:var(--green);border-color:var(--green);color:#fff}
+.dr-fila{display:flex;flex-wrap:wrap;gap:12px 18px;align-items:flex-end;margin-top:14px}
+.dr-campo{display:flex;flex-direction:column;gap:4px;font-size:.84rem;font-weight:600;color:var(--soft)}
+.dr-campo input,.dr-campo select{font:inherit;font-size:1rem;padding:10px 12px;border:1.5px solid var(--line);border-radius:10px;background:var(--paper);color:var(--ink);min-width:200px}
+.dr-check{display:flex;gap:8px;align-items:center;font-size:.92rem;padding-bottom:10px}
+.dr-cuenta{margin:12px 0 0;color:var(--soft);font-size:.92rem}
+.dr-lista{margin-top:14px}
+.dr-lista .sv-body h3{font-size:1.1rem}
+.dr-tag{display:inline-block;align-self:flex-start;font-size:.78rem;font-weight:700;color:var(--green);background:#e6efec;padding:3px 10px;border-radius:999px}
+.dr-mas{text-align:center;margin:20px 0 0}
+.dr-fuente{margin-top:26px}
+
+/* webcams */
+.wc-video{position:relative;aspect-ratio:16/9;background:#10303a;display:flex;align-items:center;justify-content:center}
+.wc-video iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.wc-play{font:inherit;font-weight:700;font-size:1rem;border:0;border-radius:999px;background:#fff;color:var(--green);padding:12px 26px;cursor:pointer;box-shadow:0 2px 10px rgba(0,0,0,.3)}
+.wc-lista .sv-card:nth-child(4){grid-column:1/-1}
+.wc-lista .sv-card:nth-child(4) .wc-video{aspect-ratio:4/5;max-height:80vh}
+@media(min-width:720px){.wc-lista .sv-card:nth-child(4) .wc-video{aspect-ratio:16/8}}
+.dr-colab{background:var(--warm,#c0622b);color:#fff}
+
+/* fichas del directorio sin foto propia: foto ilustrativa más baja */
+.dr-lista .sv-card img{height:140px}
+.dr-menu{margin-top:18px}
+
+/* playas y calas */
+.cl-dist{margin:0;display:flex;flex-wrap:wrap;gap:6px}
+.cl-azul{background:#1d5d8d;color:#fff}
+.cl-serv{margin:0;font-size:.88rem;color:var(--ink)}
+.cl-peligro{background:#8c2f12;color:#fff}
+
+/* pictograma en las fichas sin foto adecuada */
+.dr-picto{height:110px;display:flex;align-items:center;justify-content:center;color:#fff;background:linear-gradient(135deg,#2a5762 0%,#3b727c 100%)}
+.wc-video{background-size:cover;background-position:center}
+.wc-una .sv-card{grid-column:1/-1}.wc-una .wc-video{aspect-ratio:16/9}
+[hidden]{display:none!important}

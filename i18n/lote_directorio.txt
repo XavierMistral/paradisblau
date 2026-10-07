@@ -1,0 +1,87 @@
+Restaurantes|Restaurants|Restaurants
+Bares|Bars|Bars
+Cocina mediterránea|Cuina mediterrània|Mediterranean
+Cocina marinera|Cuina marinera|Seafood
+Italiana y pizzería|Italiana i pizzeria|Italian and pizzeria
+Cocina catalana|Cuina catalana|Catalan
+Cocina tradicional tossense|Cuina tradicional tossenca|Traditional Tossa cooking
+Cocina internacional|Cuina internacional|International
+Platos combinados|Plats combinats|Set plates
+Brasería|Brasseria|Grill house
+Pastelería y cafetería|Pastisseria i cafeteria|Pastry shop and café
+Kebab|Kebab|Kebab
+Cocina de autor|Cuina d'autor|Chef's cuisine
+Cocina gallega|Cuina gallega|Galician
+Bolos|Bitlles|Bowling
+Cocina china|Cuina xinesa|Chinese
+Cocina india|Cuina índia|Indian
+Sushi|Sushi|Sushi
+Sin clasificar|Sense classificar|Unclassified
+Hoteles|Hotels|Hotels
+Abierto todo el año|Obert tot l'any|Open all year
+Alquiler vacacional|Lloguer vacacional|Holiday rentals
+Apartamentos|Apartaments|Apartments
+Pensiones y albergues|Pensions i albergs|Guesthouses and hostels
+Campings|Càmpings|Campsites
+Moda|Moda|Fashion
+Bisutería y joyería|Bijuteria i joieria|Costume jewellery and jewellery
+Alimentación|Alimentació|Food shops
+Otros comercios|Altres comerços|Other shops
+Souvenirs|Records|Souvenirs
+Bolsos y complementos|Bosses i complements|Bags and accessories
+Artículos de playa y pesca|Articles de platja i pesca|Beach and fishing gear
+Servicios de limpieza|Serveis de neteja|Cleaning services
+Carnicería y charcutería|Carnisseria i xarcuteria|Butcher and charcuterie
+Cerámica|Ceràmica|Ceramics
+Ferretería|Ferreteria|Hardware store
+Hogar y decoración|Llar i decoració|Home and decor
+Óptica|Òptica|Optician
+Peluquería y estética|Perruqueria i estètica|Hairdresser and beauty
+Agencia de viajes|Agència de viatges|Travel agency
+Electrodomésticos|Electrodomèstics|Appliances
+Energía|Energia|Energy
+Estanco|Estanc|Tobacconist
+Floristería|Floristeria|Florist
+Galería de arte|Galeria d'art|Art gallery
+Growshop|Growshop|Growshop
+Juguetes|Joguines|Toys
+Perfumería|Perfumeria|Perfumery
+Pescadería|Peixateria|Fishmonger
+Productor local|Productor local|Local producer
+Venta y alquiler de bicicletas|Venda i lloguer de bicicletes|Bike sales and rental
+Con niños|Amb nens|With children
+Excursiones|Excursions|Excursions
+Parques infantiles|Parcs infantils|Playgrounds
+Ocio nocturno|Oci nocturn|Nightlife
+Actividades en el mar|Activitats al mar|Sea activities
+Alquiler de boyas|Lloguer de boies|Buoy hire
+Visitas guiadas|Visites guiades|Guided tours
+Alquiler de bicicletas|Lloguer de bicicletes|Bike rental
+Excursiones en barca|Excursions en barca|Boat trips
+Cine|Cinema|Cinema
+Esquí y bob|Esquí i bob|Ski and bob
+Minigolf|Minigolf|Mini golf
+Patines acuáticos|Patinets aquàtics|Pedalos
+Piscina y pádel|Piscina i pàdel|Pool and padel
+Skatepark|Skatepark|Skatepark
+Snorkel|Snorkel|Snorkelling
+Canoa y kayak|Canoa i caiac|Canoe and kayak
+Gimnasio|Gimnàs|Gym
+Paddle surf|Paddle surf|Paddle surf
+BTT|BTT|Mountain biking
+Pádel|Pàdel|Padel
+Yoga|Ioga|Yoga
+Baloncesto y voleibol|Bàsquet i voleibol|Basketball and volleyball
+Fútbol y rugby|Futbol i rugbi|Football and rugby
+Natación|Natació|Swimming
+Pilates|Pilates|Pilates
+Tenis|Tennis|Tennis
+Transporte público|Transport públic|Public transport
+Transporte local|Transport local|Local transport
+Alquiler de coches|Lloguer de cotxes|Car hire
+Aparcamientos|Aparcaments|Car parks
+Transporte marítimo|Transport marítim|Sea transport
+Imagen generada con IA (Google Gemini) (ilustrativa)|Imatge generada amb IA (Google Gemini) (il·lustrativa)|AI-generated image (Google Gemini) (illustrative)
+Imagen generada con IA (Google Gemini)|Imatge generada amb IA (Google Gemini)|AI-generated image (Google Gemini)
+Fotos ilustrativas:|Fotos il·lustratives:|Illustrative photos:
+Llamar|Trucar|Call

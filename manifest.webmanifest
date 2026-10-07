@@ -1,0 +1,17 @@
+{
+  "name": "Paradis Blau · Guía de Tossa de Mar",
+  "short_name": "Paradis Blau",
+  "description": "Guía de Tossa de Mar en tu mano: tiempo, planes, mapa y servicios.",
+  "lang": "es",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f6f4",
+  "theme_color": "#2c5a65",
+  "icons": [
+    { "src": "/assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/assets/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

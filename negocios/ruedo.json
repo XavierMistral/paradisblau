@@ -1,0 +1,66 @@
+{
+  "nombre": "Restaurante El Ruedo",
+  "borrador": true,
+  "fuente": "Facebook de El Ruedo Tossa de Mar y Google Maps (captura de Javi, 05/10/2026): Av. Catalunya 2, tel. 972 340 001, 20–30 € por persona. Horario según Google Maps (05/10/2026), a confirmar con el restaurante; el horario de cocina no se ha podido ver. Su web elruedo.net ya no existe. Pendiente de revisión y autorización. Gasto medio por persona: estimación de usuarios en Google Maps (05/10/2026).",
+  "vistas": [
+    {
+      "id": "carta",
+      "t": "Carta",
+      "tipo": "carta",
+      "secciones": []
+    },
+    {
+      "id": "local",
+      "t": "El local",
+      "tipo": "local",
+      "texto": "Restaurante muy conocido en Tossa de Mar por sus tapas, crepes y pollos a l'ast.",
+      "servicios": [
+        {
+          "t": "Terraza",
+          "d": "Mesas en el exterior."
+        },
+        {
+          "t": "Comer en el local",
+          "d": "Servicio en sala."
+        },
+        {
+          "t": "Recogida en el local",
+          "d": "Para llevar."
+        }
+      ],
+      "contacto": {
+        "direccion": "Avinguda Catalunya 2, Tossa de Mar",
+        "tel": "+34 972 340 001"
+      },
+      "horarios": [
+        {
+          "t": "octubre 2026",
+          "filas": [
+            {
+              "d": "Lunes",
+              "h": "9:30–16:00"
+            },
+            {
+              "d": "Martes",
+              "h": "9:00–16:00"
+            },
+            {
+              "d": "Miércoles",
+              "h": "Cerrado"
+            },
+            {
+              "d": "Jueves a domingo",
+              "h": "9:30–16:00"
+            }
+          ],
+          "nota": "Según Google Maps. En temporada alta puede cambiar: pendiente de confirmar con el negocio."
+        }
+      ],
+      "precio": "20–30 € por persona"
+    }
+  ],
+  "app": {
+    "t": "Descubre Tossa en la guía completa",
+    "u": "/"
+  }
+}

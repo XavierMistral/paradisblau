@@ -1,0 +1,43 @@
+{
+  "nombre": "Bar La Bolera",
+  "borrador": true,
+  "vistas": [
+    {
+      "id": "carta",
+      "t": "Carta",
+      "tipo": "carta",
+      "secciones": []
+    },
+    {
+      "id": "local",
+      "t": "El local",
+      "tipo": "local",
+      "texto": "Cuatro pistas de bolos con ambiente retro.",
+      "contacto": {
+        "direccion": "Avinguda Costa Brava 7, Tossa de Mar",
+        "tel": "+34 972 342 762"
+      },
+      "horarios": [
+        {
+          "t": "octubre 2026",
+          "filas": [
+            {
+              "d": "Lunes a viernes y domingo",
+              "h": "10:30–22:00"
+            },
+            {
+              "d": "Sábado",
+              "h": "10:30–22:30"
+            }
+          ],
+          "nota": "Según Google Maps. En temporada alta puede cambiar: pendiente de confirmar con el negocio."
+        }
+      ]
+    }
+  ],
+  "app": {
+    "t": "Descubre Tossa en la guía completa",
+    "u": "/"
+  },
+  "fuente": "Dirección y teléfono (972 342 762) según Google Maps y Tossa Turisme; dirección Av. Costa Brava 7 (Turisme decía 5). Pendiente de revisión y autorización. Horario según Google Maps (05/10/2026), a confirmar con el negocio."
+}

@@ -1,0 +1,74 @@
+/* Mapa propio de Tossa. Sin recursos externos. */
+.mapa-sec{max-width:1180px;margin:0 auto;padding:46px 20px 6px}
+.mapa{background:var(--paper);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--sh);padding:14px;overflow:hidden}
+.mapa-chips{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 12px}
+.mapa-chips button{font:inherit;font-size:.86rem;font-weight:600;display:inline-flex;align-items:center;gap:8px;border:1.5px solid var(--line);background:transparent;color:var(--ink);padding:7px 14px;border-radius:999px;cursor:pointer}
+.mapa-chips button i{width:11px;height:11px;border-radius:50%;display:inline-block;background:var(--c,#999)}
+.mapa-chips button[aria-pressed="false"]{opacity:.45}
+.mapa-chips button[aria-pressed="true"]{border-color:var(--c,var(--green))}
+.mapa-chips .sep{width:1px;background:var(--line);margin:2px 2px}
+
+.mapa-vista{position:relative;border-radius:12px;overflow:hidden;background:#1d5d8d;height:68vh;min-height:420px;max-height:720px}
+.mapa-vista svg{display:block;width:100%;height:100%;touch-action:none;cursor:grab;user-select:none}
+.mapa-vista svg.arrastra{cursor:grabbing}
+.mapa-ctl{position:absolute;right:12px;top:12px;display:flex;flex-direction:column;gap:6px;z-index:3}
+.mapa-ctl button{width:40px;height:40px;border-radius:10px;border:0;background:#fff;color:var(--green);font:600 1.3rem/1 var(--sans);box-shadow:0 2px 10px rgba(0,0,0,.25);cursor:pointer}
+.mapa-ctl button:hover{background:#f2f6f4}
+.mapa-attr{position:absolute;left:8px;bottom:6px;font-size:.68rem;color:#fff;background:rgba(10,26,92,.55);padding:2px 7px;border-radius:4px;z-index:3}
+.mapa-attr a{color:#fff}
+
+/* capas del mapa */
+.land{fill:#efe9dc}.sea{fill:#1d5d8d}
+.sh3{stroke:#4f9fcf;stroke-width:34;opacity:.22}.sh2{stroke:#7cc0e3;stroke-width:20;opacity:.28}.sh1{stroke:#b5defa;stroke-width:8;opacity:.5}
+.isl path{fill:#efe9dc;stroke:#b5defa;stroke-width:3}
+.parks path{fill:#d3e2c5}
+.bld path{fill:#dccbad;stroke:#cdbb98;stroke-width:.6}
+.pth path{fill:none;stroke:#c9b998;stroke-width:1.3;stroke-dasharray:3 3}
+.rdo{stroke:#cfc2a8}.rdi{stroke:#fff}
+.wl path{fill:none;stroke:#b8541f;stroke-width:3.4;stroke-linecap:round}
+
+.lab text{font-family:var(--serif);fill:#1b2233;paint-order:stroke;stroke:#fff;stroke-width:4;stroke-linejoin:round;pointer-events:none}
+.lab .ciud{font-weight:700;letter-spacing:.05em;fill:#8c3e12}
+.lab .pl{font-style:italic;fill:#1b3d8f}
+.lab .mar{font-style:italic;fill:#fff;stroke:#1d5d8d;stroke-width:3}
+
+.m{cursor:pointer;outline:none}
+.m circle.bg{fill:#fff;opacity:.95}
+.m circle.dot{stroke:#fff;stroke-width:.2}
+.m:hover circle.dot,.m:focus circle.dot,.m.sel circle.dot{stroke:#0a1a5c;stroke-width:.3}
+.m.sel circle.ring{display:block}
+.m circle.ring{display:none;fill:none;stroke:#0a1a5c;stroke-width:.18;opacity:.8}
+
+.mapa-ficha{margin-top:12px;display:grid;gap:4px;min-height:84px;padding:14px 16px;border:1px solid var(--line);border-radius:12px;background:var(--sand)}
+.mapa-ficha b{font-family:var(--serif);font-size:1.25rem;color:var(--green);font-weight:600}
+.mapa-ficha span{color:var(--soft);font-size:.96rem}
+.mapa-ficha small{font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;font-weight:700;color:var(--warm)}
+.mapa-ficha.vacia{color:var(--soft)}
+.mapa-lista{margin-top:12px}
+.mapa-lista summary{cursor:pointer;font-weight:600;color:var(--green)}
+.mapa-lista ul{list-style:none;margin:10px 0 0;padding:0;display:grid;gap:2px;grid-template-columns:1fr}
+.mapa-lista button{font:inherit;text-align:left;background:none;border:0;padding:8px 4px;width:100%;cursor:pointer;color:var(--ink);border-bottom:1px solid var(--line)}
+.mapa-lista button:hover{color:var(--green)}
+@media(min-width:720px){.mapa-lista ul{grid-template-columns:repeat(2,1fr);column-gap:24px}.mapa-sec{padding-top:56px}.mapa{padding:18px}}
+@media(max-width:719px){.mapa-vista{height:62vh}}
+.mapa-foto{width:100%;max-width:360px;height:150px;object-fit:cover;border-radius:10px;margin-bottom:6px}
+
+/* Nombres de calles: aparecen al acercar */
+.calles text{font-family:var(--sans);font-size:calc(var(--k,9) * 1px);fill:#4d4638;paint-order:stroke;stroke:#fff;stroke-width:calc(var(--k,9) * .32px);stroke-linejoin:round;display:none;pointer-events:none}
+.mapa.zc1 .calles .c1{display:inline}
+.mapa.zc2 .calles .c2{display:inline}
+.c-wifi .dot{fill:#6b4fa3}
+
+
+/* segmentos del mapa (mismos que Explora Tossa) */
+.c-hist .dot{fill:#c0622b}.mapa.sin-hist .c-hist{display:none}
+.c-mar .dot{fill:#2a7fb8}.mapa.sin-mar .c-mar{display:none}
+.c-comer .dot{fill:#2f8f6b}.mapa.sin-comer .c-comer{display:none}
+.c-comprar .dot{fill:#b8416b}.mapa.sin-comprar .c-comprar{display:none}
+.c-ocio .dot{fill:#d9a441}.mapa.sin-ocio .c-ocio{display:none}
+.c-deporte .dot{fill:#4b5bd1}.mapa.sin-deporte .c-deporte{display:none}
+.c-moverse .dot{fill:#7a8a2e}.mapa.sin-moverse .c-moverse{display:none}
+.c-alojarse .dot{fill:#8c5e3c}.mapa.sin-alojarse .c-alojarse{display:none}
+.c-serv .dot{fill:#586273}.mapa.sin-serv .c-serv{display:none}
+.c-wifi .dot{fill:#6b4fa3}.mapa.sin-wifi .c-wifi{display:none}
+.c-apt .dot{fill:#0f8ca6}.mapa.sin-apt .c-apt{display:none}

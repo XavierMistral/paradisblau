@@ -1,0 +1,105 @@
+Para los ratos de sol, de lluvia o de sobremesa. Sudokus, parejas con fotos de Tossa, cuatro en raya, la oca, puzzle deslizante, una sopa de letras, un crucigrama y un autodefinido. Todos son silenciosos, pensados para jugar en la playa o en la habitación sin molestar a nadie.|Per als moments de sol, de pluja o de sobretaula. Sudokus, parelles amb fotos de Tossa, quatre en ratlla, l'oca, trencaclosques lliscant, una sopa de lletres, uns mots encreuats i un autodefinit. Tots són silenciosos, pensats per jugar a la platja o a l'habitació sense molestar ningú.|For sunny, rainy or after-lunch moments. Sudokus, matching pairs with photos of Tossa, connect four, the goose game, a sliding puzzle, a word search, a crossword and an arrow crossword. They are all silent, designed to play on the beach or in your room without disturbing anyone.
+¿Quién juega?|Qui juga?|Who is playing?
+Todos|Tots|Everyone
+Peques|Petits|Little ones
+hasta 8 años|fins a 8 anys|up to age 8
+Familia|Família|Family
+a partir de 8|a partir de 8|8 and over
+Mayores|Grans|Adults
+Sin palabras|Sense paraules|No words
+Juegos sin palabras|Jocs sense paraules|Games without words
+Desde 10 años|Des de 10 anys|From age 10
+Parejas|Parelles|Matching pairs
+Desde 4 años|Des de 4 anys|From age 4
+Cuatro en raya|Quatre en ratlla|Connect four
+Desde 6 años|Des de 6 anys|From age 6
+La oca|L'oca|The goose game
+Desde 5 años|Des de 5 anys|From age 5
+Puzzle deslizante|Trencaclosques lliscant|Sliding puzzle
+Con palabras (en español)|Amb paraules (en castellà)|With words (in Spanish)
+Juegos con palabras|Jocs amb paraules|Games with words
+Sopa de letras|Sopa de lletres|Word search
+Desde 8 años|Des de 8 anys|From age 8
+Crucigrama|Mots encreuats|Crossword
+Para mayores|Per a adults|For adults
+Autodefinido|Autodefinit|Arrow crossword
+Completa la cuadrícula para que cada fila, columna y bloque de 3x3 lleve los números del 1 al 9 sin repetir.|Completa la graella perquè cada fila, columna i bloc de 3x3 tingui els números de l'1 al 9 sense repetir.|Fill the grid so that each row, column and 3x3 block contains the numbers 1 to 9 without repeating.
+Dificultad|Dificultat|Difficulty
+Fácil|Fàcil|Easy
+Media|Mitjana|Medium
+Difícil|Difícil|Hard
+Nuevo sudoku|Nou sudoku|New sudoku
+Comprobar|Comprovar|Check
+Ver solución|Veure la solució|Show solution
+Encuentra las palabras de la lista. Pueden estar en horizontal, vertical o diagonal, y también al revés. Pulsa la primera letra y después la última, o arrastra el dedo o el ratón de una a otra.|Troba les paraules de la llista. Poden estar en horitzontal, vertical o diagonal, i també del revés. Prem la primera lletra i després l'última, o arrossega el dit o el ratolí de l'una a l'altra.|Find the words on the list. They can run horizontally, vertically or diagonally, and also backwards. Tap the first letter and then the last, or drag your finger or mouse from one to the other.
+Nueva sopa|Sopa nova|New puzzle
+Ver palabras|Veure paraules|Show words
+Escribe las respuestas sin tildes y sin espacios. Pulsa una casilla para elegirla; si vuelves a pulsarla cambia entre horizontal y vertical.|Escriu les respostes sense accents ni espais. Prem una casella per triar-la; si la tornes a prémer, canvia entre horitzontal i vertical.|Write the answers without accents or spaces. Tap a square to select it; tap it again to switch between across and down.
+Empezar de nuevo|Començar de nou|Start again
+Horizontales|Horitzontals|Across
+Verticales|Verticals|Down
+Las definiciones están dentro de la propia cuadrícula. La flecha indica hacia dónde se escribe la respuesta: hacia la derecha o hacia abajo, empezando en la casilla siguiente. Sin tildes ni espacios.|Les definicions són dins de la mateixa graella. La fletxa indica cap on s'escriu la resposta: cap a la dreta o cap avall, començant a la casella següent. Sense accents ni espais.|The clues are inside the grid itself. The arrow shows which way to write the answer: to the right or downwards, starting in the next square. No accents or spaces.
+En el móvil puedes desplazar la cuadrícula hacia los lados.|Al mòbil pots desplaçar la graella cap als costats.|On your phone you can slide the grid sideways.
+Da la vuelta a dos cartas cada vez y encuentra las fotos iguales. Gana quien las descubra todas con menos intentos. Sin sonido y sin prisas.|Gira dues cartes cada vegada i troba les fotos iguals. Guanya qui les descobreixi totes amb menys intents. Sense so i sense pressa.|Turn over two cards each time and find the matching photos. The winner is whoever uncovers them all with the fewest attempts. No sound, no rush.
+Tamaño|Mida|Size
+Pequeño (6 parejas)|Petita (6 parelles)|Small (6 pairs)
+Medio (8 parejas)|Mitjana (8 parelles)|Medium (8 pairs)
+Grande (10 parejas)|Gran (10 parelles)|Large (10 pairs)
+Nueva partida|Partida nova|New game
+Deja caer las fichas por las columnas. Gana quien junte cuatro en línea, en horizontal, vertical o diagonal. Puedes jugar contra el móvil o entre dos personas.|Deixa caure les fitxes per les columnes. Guanya qui n'ajunti quatre en línia, en horitzontal, vertical o diagonal. Pots jugar contra el mòbil o entre dues persones.|Drop the discs down the columns. The winner is the first to line up four, horizontally, vertically or diagonally. You can play against the phone or between two people.
+Modo|Mode|Mode
+Contra la máquina|Contra el mòbil|Against the phone
+Dos jugadores|Dos jugadors|Two players
+Nivel|Nivell|Level
+Medio|Mitjà|Medium
+Tira el dado y avanza por las 63 casillas hasta el Jardín de la Oca. Puedes jugar contra el móvil o pasarte el móvil entre dos, tres o cuatro personas. Para ganar hay que llegar justo a la casilla 63: si te pasas, rebotas hacia atrás.|Tira el dau i avança per les 63 caselles fins al Jardí de l'Oca. Pots jugar contra el mòbil o passar-te el mòbil entre dues, tres o quatre persones. Per guanyar cal arribar just a la casella 63: si te'n passes, rebotes cap enrere.|Roll the die and move along the 63 squares to the Goose Garden. You can play against the phone or pass the phone between two, three or four people. To win you must land exactly on square 63: if you overshoot, you bounce back.
+Jugadores|Jugadors|Players
+Contra el móvil|Contra el mòbil|Against the phone
+Entre personas|Entre persones|Between people
+Tablero|Tauler|Board
+Pintores de Tossa|Pintors de Tossa|Tossa painters
+Espiral sencillo|Espiral senzill|Simple spiral
+Resultado del dado|Resultat del dau|Die result
+Tirar el dado|Tira el dau|Roll the die
+Tablero de la oca|Tauler de l'oca|Goose game board
+Últimas jugadas|Últimes jugades|Latest moves
+Casillas especiales|Caselles especials|Special squares
+De oca en oca: saltas a la siguiente oca y vuelves a tirar (casillas 5, 9, 14, 18, 23, 27, 32, 36, 41, 45, 50, 54 y 59).|D'oca en oca: saltes a la següent oca i tornes a tirar (caselles 5, 9, 14, 18, 23, 27, 32, 36, 41, 45, 50, 54 i 59).|Goose to goose: you jump to the next goose and roll again (squares 5, 9, 14, 18, 23, 27, 32, 36, 41, 45, 50, 54 and 59).
+Puentes (6 y 12): pasas de uno al otro y vuelves a tirar.|Ponts (6 i 12): passes de l'un a l'altre i tornes a tirar.|Bridges (6 and 12): you go from one to the other and roll again.
+Dados (26 y 53): pasas de uno al otro y vuelves a tirar.|Daus (26 i 53): passes de l'un a l'altre i tornes a tirar.|Dice (26 and 53): you go from one to the other and roll again.
+Posada (19): pierdes un turno.|Fonda (19): perds un torn.|Inn (19): you miss a turn.
+Pozo (31): pierdes dos turnos.|Pou (31): perds dos torns.|Well (31): you miss two turns.
+Laberinto (42): retrocedes a la casilla 30.|Laberint (42): retrocedeixes a la casella 30.|Maze (42): you go back to square 30.
+Cárcel (52): pierdes dos turnos.|Presó (52): perds dos torns.|Prison (52): you miss two turns.
+Calavera (58): vuelves a la salida.|Calavera (58): tornes a la sortida.|Skull (58): you go back to the start.
+Jardín de la Oca (63): ¡has ganado!|Jardí de l'Oca (63): has guanyat!|Goose Garden (63): you have won!
+Pulsa una pieza junto al hueco para deslizarla. Ordena todas las piezas hasta recomponer la foto.|Prem una peça al costat del buit per lliscar-la. Ordena totes les peces fins a recompondre la foto.|Tap a piece next to the gap to slide it. Put all the pieces in order to rebuild the photo.
+Foto|Foto|Photo
+Fácil (3x3)|Fàcil (3x3)|Easy (3x3)
+Media (4x4)|Mitjana (4x4)|Medium (4x4)
+Difícil (5x5)|Difícil (5x5)|Hard (5x5)
+Barajar de nuevo|Barrejar de nou|Shuffle again
+Mostrar números|Mostrar números|Show numbers
+Foto de referencia|Foto de referència|Reference photo
+Foto completa|Foto completa|Full photo
+Preparando el sudoku…|Preparant el sudoku…|Preparing the sudoku…
+Completado. Sudoku resuelto.|Completat. Sudoku resolt.|Done. Sudoku solved.
+Solución mostrada.|Solució mostrada.|Solution shown.
+Has encontrado todas las palabras.|Has trobat totes les paraules.|You have found all the words.
+Esa selección no coincide con ninguna palabra de la lista.|Aquesta selecció no coincideix amb cap paraula de la llista.|That selection does not match any word on the list.
+Palabras marcadas en amarillo.|Paraules marcades en groc.|Words marked in yellow.
+Completado. Todas las respuestas son correctas.|Completat. Totes les respostes són correctes.|Done. All the answers are correct.
+Carta boca abajo|Carta cap per avall|Card face down
+Pensando…|Pensant…|Thinking…
+Tu turno. Fichas amarillas.|El teu torn. Fitxes grogues.|Your turn. Yellow discs.
+Turno del jugador 1 (fichas amarillas).|Torn del jugador 1 (fitxes grogues).|Player 1's turn (yellow discs).
+Turno del jugador 2 (fichas rojas con aro).|Torn del jugador 2 (fitxes vermelles amb anell).|Player 2's turn (red discs with a ring).
+Has ganado.|Has guanyat.|You have won.
+Gana el móvil. Prueba otra vez.|Guanya el mòbil. Torna-ho a provar.|The phone wins. Try again.
+Empate.|Empat.|A draw.
+El trenecito en la Platja Gran|El carrilet a la Platja Gran|The tourist train on the Platja Gran
+Vila Vella de noche|Vila Vella de nit|Vila Vella at night
+Cala al amanecer|Cala a l'alba|Cove at dawn
+Roca y pino|Roca i pi|Rock and pine
+Sardanas|Sardanes|Sardanas
+Gambas|Gambes|Prawns

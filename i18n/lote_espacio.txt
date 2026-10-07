@@ -1,0 +1,7 @@
+Red|Xarxa|Network
+Contraseña|Contrasenya|Password
+Escanea el código QR de tu vivienda para ver aquí el nombre de la red y la contraseña del wifi.|Escaneja el codi QR del teu habitatge per veure aquí el nom de la xarxa i la contrasenya del wifi.|Scan the QR code in your accommodation to see the network name and the wifi password here.
+Contactar con tu alojamiento|Contacta amb el teu allotjament|Contact your accommodation
+Vivienda de ejemplo|Habitatge d'exemple|Example home
+(nombre de la red)|(nom de la xarxa)|(network name)
+(contraseña)|(contrasenya)|(password)

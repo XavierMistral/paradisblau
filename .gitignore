@@ -1,0 +1,25 @@
+# Carpetas de trabajo internas (fotos originales, borradores, datos de negocios)
+_trabajo/
+_fotos/
+_publicar/
+
+# Versiones antiguas del index/style (borradores locales)
+index_antes_*.html
+index_banda_*.html
+index_hoy.html
+index_marca_*.html
+index_v_*.html
+style_antes_*.css
+style_banda_*.css
+style_marca_*.css
+style_solido.css
+style_v_*.css
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini

@@ -1,0 +1,295 @@
+{
+  "nombre": "Restaurante Minerva",
+  "borrador": true,
+  "fuente": "Carta 2026 publicada por el propio restaurante en restaurantminerva.es (descargada 05/10/2026). Pendiente de su revisión y autorización. Menú de 28 € de menu-28.pdf (subido a su web en abril de 2025): confirmar que sigue vigente y su precio. Horario según Google Maps (05/10/2026): solo muestra la comida y no la cena; la web del restaurante se contradice. A confirmar con el restaurante. El vivero de marisco vivo lo indica Javi (conoce el local); confirmar el listado exacto de especies con el restaurante. Navajas y escamarlanes añadidos según Javi (con «creo»): confirmar. Gasto medio por persona: estimación de usuarios en Google Maps (05/10/2026).",
+  "vistas": [
+    {
+      "id": "carta",
+      "t": "Carta",
+      "tipo": "carta",
+      "nota": "Disponemos de carta adaptada a la normativa sobre alérgenos. Consulta con el personal.",
+      "secciones": [
+        {
+          "t": "Raciones",
+          "items": [
+            { "ref": "1", "n": "Jamón ibérico de bellota" },
+            { "ref": "2", "n": "Queso manchego" },
+            { "ref": "3", "n": "Patatas bravas" },
+            { "ref": "4", "n": "Anchoas de Tossa (12 filetes)" },
+            { "ref": "5", "n": "Boquerones fritos" },
+            { "ref": "6", "n": "Sardinas a la plancha" },
+            { "ref": "7", "n": "Sonsos fritos" },
+            { "ref": "8", "n": "Mejillones de roca a la marinera" },
+            { "ref": "9", "n": "Mejillones de roca al vapor" },
+            { "ref": "10", "n": "Pulpo a la gallega" },
+            { "ref": "11", "n": "Calamares andaluza o plancha" },
+            { "ref": "12", "n": "Calamares a la romana" },
+            { "ref": "13", "n": "Sepia a la plancha" },
+            { "ref": "14", "n": "Chipirones fritos" },
+            { "ref": "15", "n": "Croquetas de pescado caseras (8u.)" },
+            { "ref": "16", "n": "Buñuelos de bacalao (8u.)" },
+            { "ref": "17", "n": "Berberechos a la plancha" },
+            { "ref": "18", "n": "Navajas a la plancha" },
+            { "ref": "19", "n": "Almejas a la plancha" },
+            { "ref": "20", "n": "Almejas a la marinera" },
+            { "ref": "21", "n": "Ostras" },
+            { "ref": "22", "n": "Pimientos piquillo rellenos de marisco" },
+            { "ref": "23", "n": "Gambas al ajillo" },
+            { "ref": "24", "n": "Gambas a la plancha" },
+            { "ref": "25", "n": "Cigalas a la plancha" }
+          ],
+          "nota": "Casi todos los platos tienen también versión de tapa (media ración). Consulta precios en el restaurante."
+        },
+        {
+          "t": "Entrantes",
+          "items": [
+            { "ref": "1", "n": "Ensalada mixta" },
+            { "ref": "2", "n": "Ensalada de tomate y atún" },
+            { "ref": "3", "n": "Ensalada de pulpo" },
+            { "ref": "4", "n": "Tartar de salmón" },
+            { "ref": "5", "n": "Cóctel de gambas" },
+            { "ref": "6", "n": "Gazpacho andaluz" },
+            { "ref": "7", "n": "Canelones" },
+            { "ref": "8", "n": "Parrillada de verduras" },
+            { "ref": "9", "n": "Sopa de pescado" }
+          ]
+        },
+        {
+          "t": "Arroces",
+          "nota": "Mínimo 2 personas. Precio por persona.",
+          "items": [
+            { "ref": "10", "n": "Paella marinera" },
+            { "ref": "11", "n": "Arroz negro" },
+            { "ref": "12", "n": "Paella de verduras" },
+            { "ref": "13", "n": "Fideuá" },
+            { "ref": "14", "n": "Fideuá negra" },
+            { "ref": "15", "n": "Paella con bogavante" },
+            { "ref": "16", "n": "Fideos de pescadores" }
+          ]
+        },
+        {
+          "t": "Carnes",
+          "items": [
+            { "ref": "17", "n": "Solomillo de cerdo con guarnición" },
+            { "ref": "18", "n": "Escalopa de cerdo con patatas" },
+            { "ref": "19", "n": "Entrecot de ternera con guarnición" },
+            { "ref": "20", "n": "Filete de ternera con guarnición" },
+            { "ref": "21", "n": "1/2 pollo con patatas" }
+          ]
+        },
+        {
+          "t": "Pescados y mariscos",
+          "items": [
+            { "ref": "22", "n": "Salmón a la plancha con verduras" },
+            { "ref": "23", "n": "Merluza a la plancha con verduras" },
+            { "ref": "24", "n": "Rape a la plancha con verduras" },
+            { "ref": "25", "n": "Rape a la catalana" },
+            { "ref": "26", "n": "Cimitomba de rape" },
+            { "ref": "27", "n": "Zarzuela de pescado y marisco" },
+            { "ref": "28", "n": "Lenguado a la plancha con verduras / Meunière" },
+            { "ref": "29", "n": "Lenguado con gambas" },
+            { "ref": "30", "n": "Lubina a la plancha con verduras" },
+            { "ref": "31", "n": "Lubina a la sal" },
+            { "ref": "32", "n": "Rodaballo a la plancha con verduras" },
+            { "ref": "33", "n": "Bacalao a la catalana" },
+            { "ref": "34", "n": "Parrillada de pescado/marisco" },
+            { "ref": "35", "n": "Parrillada especial (2 pers.)" },
+            { "ref": "36", "n": "Mariscada (1 pers.)" },
+            { "ref": "37", "n": "Mariscada especial (2 pers.)" },
+            { "ref": "38", "n": "Mariscada premium con langosta de Tossa (2 pers.)" },
+            { "ref": "39", "n": "Caldereta de langosta" },
+            { "ref": "40", "n": "Caldereta de bogavante" },
+            { "ref": "41", "n": "Langosta de Tossa" },
+            { "ref": "42", "n": "Bogavante a la plancha" },
+            { "ref": "43", "n": "Pescado salvaje" }
+          ]
+        },
+        {
+          "t": "Para niños (hasta 12 años)",
+          "items": [
+            { "n": "Macarrones" },
+            { "n": "Canelones" },
+            { "n": "1/4 pollo con patatas" },
+            { "n": "Escalopa de cerdo con patatas" },
+            { "n": "Calamares a la romana con patatas" }
+          ]
+        },
+        {
+          "t": "Extras",
+          "items": [
+            { "n": "Pan" },
+            { "n": "Pan tostado con tomate" },
+            { "n": "Guarnición extra (patatas fritas, arroz hervido o verdura)" },
+            { "n": "Suplemento salsa de pimienta o roquefort" }
+          ]
+        },
+        {
+          "t": "Refrescos",
+          "items": [
+            { "n": "Agua Font Vella 1 L" },
+            { "n": "Agua Font Vella 1/2 L" },
+            { "n": "Agua con gas San Narciso 1/2 L" },
+            { "n": "Casera 1/2 L" },
+            { "n": "Fanta (naranja o limón)" },
+            { "n": "Coca-Cola | Zero" },
+            { "n": "Aquarius" },
+            { "n": "Nestea" },
+            { "n": "Sprite" },
+            { "n": "Tónica" },
+            { "n": "Bitter Kas" },
+            { "n": "Zumos (piña, manzana o melocotón)" },
+            { "n": "Zumo de naranja natural" }
+          ]
+        },
+        {
+          "t": "Cervezas",
+          "items": [
+            { "n": "Estrella 1/3 L" },
+            { "n": "Voll-Damm 1/3 L" },
+            { "n": "San Miguel 0,0" },
+            { "n": "Caña 1/3 L" },
+            { "n": "Jarra 1/2 L" },
+            { "n": "Sandy 1/3 L" },
+            { "n": "Sandy 1/2 L" }
+          ]
+        },
+        {
+          "t": "Cafés",
+          "items": [
+            { "n": "Café solo" },
+            { "n": "Café descafeinado" },
+            { "n": "Café con hielo" },
+            { "n": "Cortado" },
+            { "n": "Cortado descafeinado" },
+            { "n": "Café con leche" },
+            { "n": "Carajillo" },
+            { "n": "Trifásico" },
+            { "n": "Infusiones" },
+            { "n": "Capuccino" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "menu",
+      "t": "Menú",
+      "tipo": "carta",
+      "nota": "Pan incluido; bebida no incluida. Consulta precios en el restaurante.",
+      "secciones": [
+        {
+          "t": "Primer plato",
+          "nota": "A elegir uno.",
+          "items": [
+            {
+              "n": "Ensalada de tomate y atún"
+            },
+            {
+              "n": "Tartar de salmón"
+            },
+            {
+              "n": "Mejillones de roca al vapor"
+            },
+            {
+              "n": "Croquetas de rape y gambas"
+            },
+            {
+              "n": "Berberechos a la plancha"
+            },
+            {
+              "n": "Pimientos del piquillo rellenos de marisco"
+            },
+            {
+              "n": "Melón con jamón"
+            },
+            {
+              "n": "Boquerones fritos"
+            }
+          ]
+        },
+        {
+          "t": "Segundo plato",
+          "nota": "A elegir uno.",
+          "items": [
+            {
+              "n": "Paella marinera (mín. 2 personas)"
+            },
+            {
+              "n": "Arroz negro (mín. 2 personas)"
+            },
+            {
+              "n": "Fideuá (mín. 2 personas)"
+            },
+            {
+              "n": "Entrecot con guarnición"
+            },
+            {
+              "n": "Lubina a la espalda"
+            },
+            {
+              "n": "Parrillada de pescado"
+            }
+          ]
+        },
+        {
+          "t": "Postres",
+          "nota": "A elegir uno.",
+          "items": [
+            {
+              "n": "Crema catalana / Sorbete de mojito"
+            },
+            {
+              "n": "Brownie de chocolate con nueces"
+            },
+            {
+              "n": "Mousse de yogur"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "t": "El local",
+      "tipo": "local",
+      "texto": "Restaurante fundado por la familia Mondejar en 1983. Cocina tradicional marinera, especialistas en arroces, pescados y mariscos, con vivero propio de marisco vivo: langosta, bogavante, ostras, almejas, navajas y escamarlanes.",
+      "fotos": [
+        {
+          "src": "/assets/negocios/minerva/rodaballo.jpg",
+          "alt": "Rodaballo con la playa de Tossa de fondo"
+        }
+      ],
+      "contacto": {
+        "tel": "+34 972 340 939",
+        "web": "https://restaurantminerva.es/",
+        "direccion": "Carrer de Sant Raimon de Penyafort 7, 17320 Tossa de Mar (Girona)"
+      },
+      "servicios": [
+        {
+          "t": "Vivero de marisco vivo",
+          "d": "Langosta, bogavante, ostras, almejas, navajas, escamarlanes y otros mariscos, elegidos del vivero."
+        }
+      ],
+      "horarios": [
+        {
+          "t": "temporada baja, octubre 2026",
+          "filas": [
+            {
+              "d": "Lunes, martes y jueves a domingo",
+              "h": "13:00–15:45"
+            },
+            {
+              "d": "Miércoles",
+              "h": "Cerrado"
+            }
+          ],
+          "nota": "Según Google Maps. En temporada alta el restaurante puede ampliar el horario (cenas): pendiente de confirmar con el negocio."
+        }
+      ],
+      "precio": "Consultar en el restaurante"
+    }
+  ],
+  "app": {
+    "t": "Descubre Tossa en la guía completa",
+    "u": "/"
+  }
+}

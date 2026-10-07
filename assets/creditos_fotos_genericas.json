@@ -1,0 +1,191 @@
+{
+ "genericas/pinchos": {
+  "autor": "Grey World",
+  "licencia": "CC BY 2.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/2.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:Bar_tapas_in_Murcia_-_6305308713.jpg",
+  "archivo": "File:Bar tapas in Murcia - 6305308713.jpg"
+ },
+ "genericas/pizza": {
+  "autor": "Mitzy01656767",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:Horno_de_pizza_en_Coyoac%C3%A1n.jpg",
+  "archivo": "File:Horno de pizza en Coyoacán.jpg"
+ },
+ "genericas/hotel": {
+  "autor": "Paddy Briggs",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "origen": "https://commons.wikimedia.org/wiki/File:Aigua_Blava_Parador_1.jpg",
+  "archivo": "File:Aigua Blava Parador 1.jpg"
+ },
+ "genericas/buceo": {
+  "autor": "Ryland.cairns",
+  "licencia": "CC0",
+  "licencia_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "origen": "https://commons.wikimedia.org/wiki/File:Scuba_Diving_Samaesan_Island.jpg",
+  "archivo": "File:Scuba Diving Samaesan Island.jpg"
+ },
+ "genericas/btt": {
+  "autor": "2017 Canada Summer Games",
+  "licencia": "CC BY 2.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/2.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:2017-07-29_Marc_Nedelec_Mountain_Biking_-_practice_(12)_(36253338235).jpg",
+  "archivo": "File:2017-07-29 Marc Nedelec Mountain Biking - practice (12) (36253338235).jpg"
+ },
+ "genericas/bici": {
+  "autor": "Garionh",
+  "licencia": "CC BY 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/4.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:%22Whatsup%22_MTB_track_in_Warburton_Bike_Park.jpg",
+  "archivo": "File:\"Whatsup\" MTB track in Warburton Bike Park.jpg"
+ },
+ "genericas/padel": {
+  "autor": "Sotos",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:Court_de_padel_de_Vic-en-Bigorre_(Hautes-Pyr%C3%A9n%C3%A9es)_1.jpg",
+  "archivo": "File:Court de padel de Vic-en-Bigorre (Hautes-Pyrénées) 1.jpg"
+ },
+ "genericas/gimnasio": {
+  "autor": "Aditya Oberai",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:Bench_Press.jpg",
+  "archivo": "File:Bench Press.jpg"
+ },
+ "genericas/coche": {
+  "autor": "Photograph by Mike Peel (www.mikepeel.net).",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:Car_rental,_UK_2018_03.jpg",
+  "archivo": "File:Car rental, UK 2018 03.jpg"
+ },
+ "genericas/aparcamiento": {
+  "autor": "User:Mattes",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "origen": "https://commons.wikimedia.org/wiki/File:Aeroporto_di_Firenze_-_Parking_lot_for_rental_cars.jpg",
+  "archivo": "File:Aeroporto di Firenze - Parking lot for rental cars.jpg"
+ },
+ "genericas/autobus": {
+  "autor": "Manchesterunited1234",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "origen": "https://commons.wikimedia.org/wiki/File:Autocar_n%C2%B03331_(Moventis_Sarfa_-_Ligne_L752)_-_(Platja_d%27Aro,_ES17)_-_02-11-2023.jpg",
+  "archivo": "File:Autocar n°3331 (Moventis Sarfa - Ligne L752) - (Platja d'Aro, ES17) - 02-11-2023.jpg"
+ },
+ "genericas/parque": {
+  "autor": "Mertbiol",
+  "licencia": "CC0",
+  "licencia_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "origen": "https://commons.wikimedia.org/wiki/File:Children%27s_playground,_Frimley_Lodge_Park,_Surrey_01.jpg",
+  "archivo": "File:Children's playground, Frimley Lodge Park, Surrey 01.jpg"
+ },
+ "genericas/bolos": {
+  "autor": "Photographer of The White House or executive branch, a U.S. federal employee",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "origen": "https://commons.wikimedia.org/wiki/File:2017_Harry_S_Truman_Bowling_Alley_-_(Old)_Eisenhower_Executive_Office_Building.jpg",
+  "archivo": "File:2017 Harry S Truman Bowling Alley - (Old) Eisenhower Executive Office Building.jpg"
+ },
+ "genericas/plato-paella": {
+  "autor": "Imagen generada con IA (Google Gemini)",
+  "licencia": "ilustrativa",
+  "licencia_url": "/creditos.html",
+  "origen": "/creditos.html",
+  "archivo": "Paella de marisco (imagen ilustrativa)"
+ },
+ "genericas/plato-langostinos": {
+  "autor": "Imagen generada con IA (Google Gemini)",
+  "licencia": "ilustrativa",
+  "licencia_url": "/creditos.html",
+  "origen": "/creditos.html",
+  "archivo": "Langostinos a la plancha (imagen ilustrativa)"
+ },
+ "genericas/plato-cimitomba": {
+  "autor": "Imagen generada con IA (Google Gemini)",
+  "licencia": "ilustrativa",
+  "licencia_url": "/creditos.html",
+  "origen": "/creditos.html",
+  "archivo": "Cim i tomba (imagen ilustrativa)"
+ },
+ "genericas/plato-langostinos-cazuela": {
+  "autor": "Imagen generada con IA (Google Gemini)",
+  "licencia": "ilustrativa",
+  "licencia_url": "/creditos.html",
+  "origen": "/creditos.html",
+  "archivo": "Langostinos en cazuela (imagen ilustrativa)"
+ },
+ "genericas/bodegon-mediterraneo": {
+  "autor": "Imagen generada con IA (Google Gemini)",
+  "licencia": "ilustrativa",
+  "licencia_url": "/creditos.html",
+  "origen": "/creditos.html",
+  "archivo": "Bodegón de productos mediterráneos (imagen ilustrativa)"
+ },
+ "genericas/souvenirs-ceramica": {
+  "autor": "Imagen generada con IA (Google Gemini)",
+  "licencia": "ilustrativa",
+  "licencia_url": "/creditos.html",
+  "origen": "/creditos.html",
+  "archivo": "Cerámica y recuerdos artesanales (imagen ilustrativa)"
+ },
+ "genericas/mercadillo-semanal": {
+  "autor": "Imagen generada con IA (Google Gemini)",
+  "licencia": "ilustrativa",
+  "licencia_url": "/creditos.html",
+  "origen": "/creditos.html",
+  "archivo": "Mercadillo semanal (imagen ilustrativa)"
+ },
+ "genericas/moda-boutique": {
+  "autor": "Imagen generada con IA (Google Gemini)",
+  "licencia": "ilustrativa",
+  "licencia_url": "/creditos.html",
+  "origen": "/creditos.html",
+  "archivo": "Tienda de moda mediterránea (imagen ilustrativa)"
+ },
+ "genericas/bisuteria-artesanal": {
+  "autor": "Imagen generada con IA (Google Gemini)",
+  "licencia": "ilustrativa",
+  "licencia_url": "/creditos.html",
+  "origen": "/creditos.html",
+  "archivo": "Bisutería artesanal (imagen ilustrativa)"
+ },
+ "genericas/bolsos-complementos": {
+  "autor": "Imagen generada con IA (Google Gemini)",
+  "licencia": "ilustrativa",
+  "licencia_url": "/creditos.html",
+  "origen": "/creditos.html",
+  "archivo": "Bolsos y complementos de verano (imagen ilustrativa)"
+ },
+ "genericas/playa-y-pesca": {
+  "autor": "Imagen generada con IA (Google Gemini)",
+  "licencia": "ilustrativa",
+  "licencia_url": "/creditos.html",
+  "origen": "/creditos.html",
+  "archivo": "Artículos de playa y pesca (imagen ilustrativa)"
+ },
+ "genericas/pasteleria-catalana": {
+  "autor": "Imagen generada con IA (Google Gemini)",
+  "licencia": "ilustrativa",
+  "licencia_url": "/creditos.html",
+  "origen": "/creditos.html",
+  "archivo": "Pastelería catalana (imagen ilustrativa)"
+ },
+ "genericas/apartamento-terraza": {
+  "autor": "Imagen generada con IA (Google Gemini)",
+  "licencia": "ilustrativa",
+  "licencia_url": "/creditos.html",
+  "origen": "/creditos.html",
+  "archivo": "Apartamento con terraza (imagen ilustrativa)"
+ },
+ "genericas/estanco": {
+  "autor": "Google Street View",
+  "licencia": "ilustrativa",
+  "licencia_url": "https://www.google.com/maps",
+  "origen": "https://www.google.com/maps",
+  "archivo": "Estanco (imagen ilustrativa)"
+ }
+}
